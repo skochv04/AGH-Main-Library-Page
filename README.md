@@ -3,7 +3,7 @@
 A Node.js-based web application for the AGH Library System, developed as part of the Introduction to Internet Applications course at AGH.
 
 ## 👥 Team Members:
-- **Stas Kochevenko** | skochv04@gmail.com 
+- **Stas Kochevenko** 
 - **Dawid Kardacz**
 
 ## 📌 Project Overview:
