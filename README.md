@@ -23,14 +23,20 @@ All data is stored in an SQLite database.
 
 ## 🚀 How to Run the Application?
 
-### 1️⃣ Install dependencies and run the frontend
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/skochv04/AGH-Main-Library-Page  
+cd repository
+```
+
+### 2️⃣ Install dependencies and run the frontend
 ```bash
 cd app
 npm install
 npm start
 ```
 
-### 2️⃣ Run the server
+### 3️⃣ Run the server
 ```bash
 cd app
 node src/server.js
